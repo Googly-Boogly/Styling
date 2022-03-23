@@ -1,0 +1,38 @@
+
+.test1 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+}
+.test2 {
+    color: cyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+}
+.test4 {
+    height: 70px;
+    text-align: center;
+    font-style: italic;
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: blueviolet;
+}
+.test3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    background-color: black;
+    text-decoration: none;
+    height: 100px;
+}
+.test5 {
+    text-align: right;
+    background-color: lightblue;
+    text-decoration: underline;
+    height: 50px;
+}
+.test6 {
+    color: white;
+    text-decoration: none;
+}
